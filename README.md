@@ -32,7 +32,11 @@
 <br/>
 <br/><br/>
 
+[![Shubhansu's github stats](https://github-readme-stats.vercel.app/api?username=shubhansu31)](https://github.com/anuraghazra/shubhansu31)
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhansu31&layout=compact)](https://github.com/shubhansu31)
 
 [twitter]: https://twitter.com/shubhansu31
 [linkedin]: https://www.linkedin.com/in/shubhansu31/
