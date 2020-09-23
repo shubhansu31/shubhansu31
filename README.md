@@ -39,4 +39,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhansu31&layout=compact)](https://github.com/shubhansu31)
 
 [twitter]: https://twitter.com/shubhansu31
-[linkedin]: https://www.linkedin.com/in/shubhansu31/
+[linkedin]: https://www.linkedin.com/in/shubhansujain/
