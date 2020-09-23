@@ -32,7 +32,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhansu31&show_icons=true&hide_border=true" />
 
-[![Shubhansu's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/shubhansu31/github-readme-stats)
+[![Shubhansu's github stats](https://github-readme-stats.vercel.app/api?username=shubhansu31)](https://github.com/shubhansu31/github-readme-stats)
 
 [twitter]: https://twitter.com/shubhansu31
 [linkedin]: https://www.linkedin.com/in/shubhansu31/
