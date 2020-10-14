@@ -1,5 +1,7 @@
 
-### Hi there, I'm Shubhansu Jain, Welcome to my Github 👋
+### Hi there, I'm Shubhansu Jain, Welcome to my Github<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhansu31" alt="shubhansu31" /> </p>
 
 ## I'm a Student, Developer, Geek
 - 🔭 I’m currently studying software engineering @ Medi-Caps University
