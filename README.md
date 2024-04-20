@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhansu31" alt="shubhansu31" /> </p>
 
-## I'm a Student, Developer, Geek
+## I'm a Full Stack Developer
 - 🔭 Went to Medi-Caps University
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
